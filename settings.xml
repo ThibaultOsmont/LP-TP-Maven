@@ -1,0 +1,17 @@
+<settings>
+  <localRepository/>
+  <interactiveMode/>
+  <usePluginRegistry/>
+  <offline/>
+
+  <proxies>
+   <proxy>
+      <active>true</active>
+      <protocol>http</protocol>
+      <host>tabatha.iut-nantes.univ-nantes.prive</host>
+      <port>3128</port>
+      <nonProxyHosts>*.univ-nantes.fr</nonProxyHosts>
+    </proxy>
+  </proxies>
+</settings>
+
